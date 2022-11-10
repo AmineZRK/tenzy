@@ -29,7 +29,7 @@ npm start
 
 <br>
 
-![this is alt text](/doc/Tenzy.mp4)
+![this is alt text](./doc/Tenzy.mp4)
 
 
 
